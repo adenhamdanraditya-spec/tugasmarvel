@@ -4,7 +4,7 @@ Website ini tampil rapi di ponsel, tablet, dan laptop.
 ## Tampilan
 ![Tampilan beranda portofolio](https://github.com/adenhamdanraditya-spec/tugasmarvel/blob/main/img/foto.png)
 ![Tampilan beranda portofolio](https://github.com/adenhamdanraditya-spec/tugasmarvel/blob/main/img/foto2.png?raw=true)
-![Tampilan beranda portofolio](img/Screenshot 2026-10-25 204757.png)
+![Tampilan beranda portofolio](https://github.com/adenhamdanraditya-spec/tugasmarvel/blob/main/Screenshot%202026-10-26%20171842.png?raw=true)
 ## Fitur
 - Halaman **Beranda** berisi profil, hobi, cita-cita, keahlian, dan jadwal belajar
 - Halaman **Proyek** berisi daftar proyek dalam bentuk kartu
