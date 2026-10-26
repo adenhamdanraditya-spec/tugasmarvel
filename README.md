@@ -16,4 +16,4 @@ Website ini tampil rapi di ponsel, tablet, dan laptop.
 - Git dan GitHub
 ## Tautan
 - Website: menyusul setelah *deploy* ke Vercel
-- Dibuat oleh: Aden Hamdan Raditya, SMKS BRANTAS KARANGKATES
+- Dibuat oleh: marvel, SMKS BRANTAS KARANGKATES
